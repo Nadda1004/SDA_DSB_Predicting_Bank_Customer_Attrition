@@ -2,6 +2,7 @@
 ### Table Of Content 
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Motivation">Motivation</a></li>
+<li><a href="#data">Data</a></li>
 <li><a href="#EDA">Exploratory Data Analysis (EDA)</a></li>
 <li><a href="#Results">Results</a></li> 
 <li><a href="#Conclusion">Conclusion</a></li>
@@ -22,6 +23,12 @@ We are using the bank customer’s data to predict possible attrited customers u
 * [Code](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Predicting_Bank_Customer_Attrition.ipynb) 
   * **Note: I highly encourage you to open the code in colab to view and interact with the plots**
 * Medium Story: [Predicting Attrited Bank Customers Using Machine Learning](https://nadda1004.medium.com/predicting-attrited-bank-customers-using-machine-learning-33a1c3042c6a)
+
+<a id='data'></a>
+## Data:
+* Source: Kaggle: [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+* File: [Credit Card Customers](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Data/BankChurners.csv)
+* [Data Dictionary](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Data/BankChurners_%20Data%20Description.pdf)
 
 <a id='EDA'></a>
 ## Exploratory Data Analysis (EDA)
