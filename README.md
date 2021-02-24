@@ -32,6 +32,9 @@ We are using the bank customer’s data to predict possible attrited customers u
 
 <a id='EDA'></a>
 ## Exploratory Data Analysis (EDA)
+* **Columns info**
+  * The Data has 10271 smaples and 20 feature with no null values or duplicates.
+  ![columns](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Images/columns.PNG)
 * **Class Distribution**
   * The data is split into 2 classes that identified the customer attrition status: Existing Customer, Attrited Customer. Existing Customers represent 83.9% of our sample and the Attrited Customers represent 16.1%, we clearly see that the class ratio is imbalanced which might make it difficult for the model to identify attrited customers.
   ![Class Distribution](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Images/class.png)
