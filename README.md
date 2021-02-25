@@ -46,7 +46,7 @@ We are using the bank customer’s data to predict possible attrited customers u
   *  The highest number of attrited and existing customers are blue cardholders, and the lowest number of attrited and existing customers are platinum cardholders.
   ![credit card level](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Images/card.png)
 * **Annual Income**
-  * The highest number of attrited and existing customers have less than 40K dollars as an annual income, and the lowest number of attrited and existing customers have more than 120K dollars as an annual income.
+  * The highest number of attrited and existing customers have less than 40K dollars as an annual income, and the lowest number of attrited and existing customers have more than 120K dollars as an annual income. 
   ![Annual Income](https://github.com/Nadda1004/SDA_DSB_Predicting_Bank_Customer_Attrition/blob/main/Images/annaul_income.png)
 * **Period Of Relationship With The Bank**
   * The longest period that existing and attrited customers spent with the bank is between 35–39 months, and the shortest period of they spent is between 10–14 months.
